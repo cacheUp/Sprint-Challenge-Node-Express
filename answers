@@ -1,0 +1,25 @@
+1. Mention two parts of Express that you learned about this week.
+ 
+ 
+ -express.Router is an interface that lets you modularize routing
+- express' error handling capabilities and express' default error handler
+
+
+2. Describe Middleware?
+
+Middleware are functions that run between the start and end of a req-res cycle.
+
+
+3.Describe a Resource?
+
+A resource is a identifiable thing with an specific location.
+
+
+4.What can the API return to help clients know if a request was successful?
+
+HTTP status codes.
+
+
+5. How can we partition our application into sub-applications?
+
+By modularizing parts of code using libraries and frameworks
